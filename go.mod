@@ -1,3 +1,3 @@
-module github.com/xwi88/version
+module github.com/Adam-wxy/version
 
 go 1.14
